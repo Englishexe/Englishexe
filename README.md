@@ -1,7 +1,21 @@
-<!-- Hello, this HTML document is very janky but somehow sort of works so Im not going to change much, I hope you find my other repositories more interesting than this one! -->
-<h1 align="center">👋 Hello I'm Englishexe</h1>
+<!-- Hello, this HTML document is very janky but works so I'm not going to change much, I hope you find my other repositories more interesting than this one! -->
+<h1 align="center">Hello</h1>
 
-<p align="center">Hello, I'm Englishexe a drone pilot and programmer, I primarily program in Python and CPP but know Batch and HTML. I started programming in 2021 with Batch and Python and then progressed my knowledge with HTML and CPP in 2023. I have used Python on multiple projects from Raspberry Pis to Folder Encrypters. You can find the tools I use below, if you have any more questions contact me on Discord. </p>
+<p align="center">
+I am Englishexe, a driven and proficient programmer and an accomplished drone pilot. My journey in the world of programming commenced in 2021, and since then, I have passionately immersed myself in the intricate world of code. With a solid foundation in programming languages such as Python and C++, complemented by additional expertise in Batch and HTML5, I have evolved into a versatile and creative coder.
+
+Currently pursuing my academic endeavours at a STEM-focused college, I am constantly honing my skills and expanding my horizons in the ever-evolving landscape of technology. My educational background in STEM not only reinforces my programming capabilities but also fuels my curiosity for innovation.
+
+In my programming journey, I began by exploring languages like Batch, using them as a stepping stone to grasp the fundamentals of scripting and automation. As my passion grew, I delved deeper into Python and HTML, realizing their immense potential for diverse applications. These languages allowed me to craft efficient solutions, from Raspberry Pi applications that seamlessly integrate hardware and software to the development of Folder Encrypters that enhance data security.
+
+By 2023, I had further broadened my skill set to include C++, a language renowned for its power and versatility in software development. This expansion has enabled me to tackle more complex projects and contribute to a wider array of technological domains.
+
+Beyond coding, I possess a unique proficiency as a drone pilot, combining my technical prowess with a deep appreciation for aerial photography and videography. This skill adds a distinctive dimension to my abilities, allowing me to merge technology and artistry seamlessly.
+
+My programming journey is characterized by a relentless pursuit of excellence, a commitment to continuous learning, and an insatiable curiosity about the limitless possibilities that technology offers. I look forward to leveraging my skills and experiences to contribute to innovative projects, collaborate with like-minded professionals, and make a meaningful impact in the ever-evolving world of technology and programming.
+
+Thank you for taking the time to learn about me. If you have any questions contact me either through email or Discord. (Email: englishexe8910@gmail.com <b>|</b> Discord: @englishexe)
+</p>
 
 <h3 alight="left">Languages:</h3>
 <p align="left"> 
@@ -36,4 +50,4 @@
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="40" height="30"/>
 </a>
 <h3 align="left">Extra:</h3> <p align="left">
-<p>  📖 Learnt CPP<br>  🚁 Flying Drones<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database</p>
+<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)</p>
