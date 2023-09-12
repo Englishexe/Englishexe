@@ -1,7 +1,7 @@
 <!-- Hello, this HTML document is very janky but works so I'm not going to change much, I hope you find my other repositories more interesting than this one! -->
 <h1 align="center">Hello</h1>
 
-<p align="center">
+<p align="left">
 I am Englishexe, a driven and proficient programmer and an accomplished drone pilot. My journey in the world of programming commenced in 2021, and since then, I have passionately immersed myself in the intricate world of code. With a solid foundation in programming languages such as Python and C++, complemented by additional expertise in Batch and HTML5, I have evolved into a versatile and creative coder.
 
 Currently pursuing my academic endeavours at a STEM-focused college, I am constantly honing my skills and expanding my horizons in the ever-evolving landscape of technology. My educational background in STEM not only reinforces my programming capabilities but also fuels my curiosity for innovation.
