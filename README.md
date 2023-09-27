@@ -51,3 +51,5 @@ Thank you for taking the time to learn about me. If you have any questions conta
 </a>
 <h3 align="left">Extra:</h3> <p align="left">
 <p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)</p>
+
+<p>Check out my friends profile <a href="https://github.com/23JBower">HERE</a></p>
