@@ -50,6 +50,6 @@ Thank you for taking the time to learn about me. If you have any questions conta
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="40" height="30"/>
 </a>
 <h3 align="left">Extra:</h3> <p align="left">
-<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)</p>
+<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)<br> 🟨 Learning JavaScript</p>
 
 <p>Check out my friends profile <a href="https://github.com/23JBower">HERE</a></p>
