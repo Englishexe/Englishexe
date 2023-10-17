@@ -2,7 +2,7 @@
 <h1 align="center">Hello</h1>
 
 <p align="left">
-I am Englishexe, a driven and proficient programmer and an accomplished drone pilot. My journey in the world of programming commenced in 2021, and since then, I have passionately immersed myself in the intricate world of code. With a solid foundation in programming languages such as Python and C++, complemented by additional expertise in Batch and HTML5, I have evolved into a versatile and creative coder.
+I am Dexter Turner, a driven and proficient programmer and an accomplished drone pilot. My journey in the world of programming commenced in 2021, and since then, I have passionately immersed myself in the intricate world of code. With a solid foundation in programming languages such as Python and C++, complemented by additional expertise in Batch and HTML5, I have evolved into a versatile and creative coder.
 
 Currently pursuing my academic endeavours at a STEM-focused college, I am constantly honing my skills and expanding my horizons in the ever-evolving landscape of technology. My educational background in STEM not only reinforces my programming capabilities but also fuels my curiosity for innovation.
 
@@ -46,10 +46,5 @@ Thank you for taking the time to learn about me. If you have any questions conta
 <a href="https://stackoverflow.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" height="40"/>
 </a>
-<a href="https://discord.com" target="_blank" rel="noreferrer"> 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="40" height="30"/>
-</a>
 <h3 align="left">Extra:</h3> <p align="left">
-<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)<br> 🟨 Learning JavaScript</p>
-
-<p>Check out my friends profile <a href="https://github.com/23JBower">HERE</a></p>
+<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)<br> 🟨 Learning JavaScript & CSS</p>
