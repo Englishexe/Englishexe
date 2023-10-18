@@ -46,5 +46,3 @@ Thank you for taking the time to learn about me. If you have any questions conta
 <a href="https://stackoverflow.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" height="40"/>
 </a>
-<h3 align="left">Extra:</h3> <p align="left">
-<p>  📖 CPP Programmer<br>  🚁 Flying Drones (1 Drone Death)<br>  🤔 Forgetting semicolons<br>  🌐 Making a python database (PSDB)<br> 🟨 Learning JavaScript & CSS</p>
