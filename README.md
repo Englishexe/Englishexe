@@ -6,5 +6,5 @@ I am an accomplished photographer and programmer. Proficient in **Python**, **C+
 <img src="assests/Java.png" alt="Java Logo" width="40" height="45"/>
 <img src="assests/Python.png" alt="Python Logo" width="40" height="45"/>
 <img src="assests/HTML.png" alt="HTML Logo" width="40" height="40"/>
-<img src="assests/Batch.png" alt="Batch Logo" width="40" height="30"/>
+<img src="assests/WinBatch.png" alt="Batch Logo" width="40" height="30"/>
 </p>
